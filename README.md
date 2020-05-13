@@ -3,7 +3,7 @@
 ##eAdhar Pdf's Password Crack
 
 ## Instalation
-Markup : * git clone https://github.com/omi-k/chavi
+git clone https://github.com/omi-k/chavi
 	  
 cd Chavi 
   
