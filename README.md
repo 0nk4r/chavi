@@ -1,10 +1,15 @@
-# chavi
-eAdhar Pdf's Password Crack
+#Chavi
+##eAdhar Pdf's Password Crack
 
-Run Using following stapes:
+##Instalation
 
-git clone https://github.com/omi-k/chavi
+Markup : *git clone https://github.com/omi-k/chavi
+	  
+         *cd Chavi 
 
-cd chavi 
+	   *pip3 install -r requirements.txt
 
-python chavi.py <adhar's Location> 
+##Run
+Markup : *python3 chavi.py <adhar's Location> 
+
+
